@@ -4,7 +4,7 @@ Implementation of a genetic algorithm to solve the Knapsack Problem -- that is, 
 
 ## Title
 
-The Knapsack Problem
+CS 131 HW 03 - The Knapsack Problem
 
 ## Author
 
